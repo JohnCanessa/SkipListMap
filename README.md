@@ -9,7 +9,7 @@ Decided to split the code to keep it simple but covering all the needed items in
 
 If interested, please read the associated post at the following URI:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/09/16/concurrent-skip-list-map/
 
 Hope you enjoy the code and the post.
 If so; please subscribe to my blog.
